@@ -1,5 +1,7 @@
 # Welcome to Crop Guardian
 
+In collboration with Lucas Fredonic
+
 Built for farmers, gardeners, and everyone!
 Powered by fine-tuned machine learning models,
 - Upload an image of your crop
